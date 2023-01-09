@@ -9,3 +9,7 @@
     width: 100%;
     border-radius: 20px;
 }
+
+.img-container h1, h5{
+    text-align: center;
+}
